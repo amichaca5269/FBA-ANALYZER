@@ -54,3 +54,4 @@ Requires Python 3.8+. No external libraries needed.
 Referral fees range from 8% (Electronics) to 20% (Jewelry).
 FBA fulfillment fees range from $3.22 (small standard) to $89.98 (large oversize).
 Storage fees: $0.78/cubic ft/month (Jan–Sep), $2.40/cubic ft/month (Oct–Dec peak).
+# FBA-ANALYZER
